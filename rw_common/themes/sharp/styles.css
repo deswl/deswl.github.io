@@ -63,7 +63,7 @@ img {
 }
 
 #pageHeader {
-	background: #00ffff;
+	background: #99ffff;
 	height: 110px;
 	margin-bottom: 15px;
 	position: relative;
@@ -76,7 +76,7 @@ img {
 }
 
 #pageHeader h1 {
-	color: #000099;
+	color: #000000;
 	margin: 0px;
 	padding: 30px 20px 0px 20px;
 	letter-spacing: 2px;
@@ -84,7 +84,7 @@ img {
 }
 
 #pageHeader h2 {
-	color: #000099;
+	color: #000000;
 	font-weight: normal;
 	letter-spacing: 2px;
 	margin: 0px;
@@ -131,11 +131,11 @@ img {
 #footer {
 	text-align: left;
 	height: 50px;
-	background: #00ffff;
+	background: #99ffff;
 }
 
 #footer p {
-	color: #000099;
+	color: #000000;
 	padding-top: 15px;
 	padding-left: 20px;
 }
