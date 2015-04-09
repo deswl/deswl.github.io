@@ -9,7 +9,7 @@
 		<key>page2</key>
 		<dict>
 			<key>CreationDate</key>
-			<date>2015-04-09T18:25:45Z</date>
+			<date>2015-04-09T18:30:45Z</date>
 			<key>DigestAlgorithm</key>
 			<string>MD5</string>
 			<key>DocumentGUID</key>
@@ -20,10 +20,10 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					5GxWTw+mUNKoan23JSCyEw==
+					gGkq0HtRIH4fOLF39ZRKzw==
 					</data>
 					<key>Size</key>
-					<integer>3676</integer>
+					<integer>3870</integer>
 				</dict>
 			</dict>
 			<key>PageID</key>
