@@ -1,7 +1,7 @@
 /* @group General Styles */
 
 body {
-	background: #e5e5e5;
+	background: #ffffff;
 	margin: 20px;
 	text-align: center;
 	color: #373737;
@@ -63,7 +63,7 @@ img {
 }
 
 #pageHeader {
-	background: #330033;
+	background: #00ffff;
 	height: 110px;
 	margin-bottom: 15px;
 	position: relative;
@@ -76,7 +76,7 @@ img {
 }
 
 #pageHeader h1 {
-	color: #ffffff;
+	color: #000099;
 	margin: 0px;
 	padding: 30px 20px 0px 20px;
 	letter-spacing: 2px;
@@ -84,7 +84,7 @@ img {
 }
 
 #pageHeader h2 {
-	color: #cccccc;
+	color: #000099;
 	font-weight: normal;
 	letter-spacing: 2px;
 	margin: 0px;
@@ -131,11 +131,11 @@ img {
 #footer {
 	text-align: left;
 	height: 50px;
-	background: #333333;
+	background: #00ffff;
 }
 
 #footer p {
-	color: #ffffff;
+	color: #000099;
 	padding-top: 15px;
 	padding-left: 20px;
 }
