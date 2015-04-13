@@ -63,7 +63,7 @@ img {
 }
 
 #pageHeader {
-	background: #2222bb;
+	background: #99ffff;
 	height: 110px;
 	margin-bottom: 15px;
 	position: relative;
@@ -76,7 +76,7 @@ img {
 }
 
 #pageHeader h1 {
-	color: #ffffff;
+	color: #000000;
 	margin: 0px;
 	padding: 30px 20px 0px 20px;
 	letter-spacing: 2px;
@@ -84,7 +84,7 @@ img {
 }
 
 #pageHeader h2 {
-	color: #ffffff;
+	color: #000000;
 	font-weight: normal;
 	letter-spacing: 2px;
 	margin: 0px;
@@ -196,7 +196,7 @@ img {
 #navcontainer #current {
 	color: #333333;
 	font-weight: bold;
-	background: #e1e1ff;
+	background: #f1f1f1;
 }
 
 #navcontainer #current:hover {
